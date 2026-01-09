@@ -1,0 +1,11 @@
+ID: 101
+Name: Zainab
+Similarity: 66.6667%
+Plagiarism Level: High
+Marks: 50
+-----------------
+ID: 102
+Name: Maryam
+Similarity: 66.6667%
+Plagiarism Level: High
+Marks: 50
